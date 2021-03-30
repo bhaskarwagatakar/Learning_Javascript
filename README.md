@@ -1,6 +1,6 @@
 # Learning_Javascript Tutorials
 
-#Tutorial Link:https:https://www.youtube.com/playlist?list=PL46F0A159EC02DF82
+#Tutorial Link: https:https://www.youtube.com/playlist?list=PL46F0A159EC02DF82
 
 #Tutorial website:https://thenewboston.com/
 
